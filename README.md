@@ -1,4 +1,4 @@
-# XL Deploy|Release Description|Interface plugin v1.0.0
+# XL Deploy WebLogic Server Start Config plugin v1.0.0
 
 [![Build Status][xld-wls-server-start-config-plugin-travis-image]][xld-wls-server-start-config-plugin-travis-url]
 [![License: MIT][xld-wls-server-start-config-plugin-license-image]][xld-wls-server-start-config-plugin-license-url]
@@ -15,21 +15,19 @@
 This document describes the functionality provided by the XL Deploy|Release Description|Interface plugin.
 
 See the [XL Deploy reference manual](https://docs.xebialabs.com/xl-deploy) for background information on XL Deploy and deployment automation concepts.  
-or  
-See the [XL Release reference manual](https://docs.xebialabs.com/xl-release) for background information on XL Release and release automation concepts.  
 
 ## Overview
 
 ## Requirements
 
-Note:  XLD or XLR version should not be lower than lowest supported version.  See <https://support.xebialabs.com/hc/en-us/articles/115003299946-Supported-XebiaLabs-product-versions>.
+* XL Deploy 7.0+ 
 
 ## Installation
 
-* Copy the latest JAR file from the [releases page](https://github.com/xebialabs-community/xld-wls-server-start-config-plugin/releases) into the `XL_DEPLOY|RELEASE_SERVER/plugins` directory.
-* Restart the XL Deploy|Release server.
+* Copy the latest JAR file from the [releases page](https://github.com/xebialabs-community/xld-wls-server-start-config-plugin/releases) into the `XL_DEPLOY_SERVER/plugins` directory.
+* Restart the XL Deploy server.
 
-## Features/Usage/Types/Tasks
+## Usage
 
 ## References
 
