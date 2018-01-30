@@ -29,5 +29,9 @@ See the [XL Deploy reference manual](https://docs.xebialabs.com/xl-deploy) for b
 
 ## Usage
 
+#### Deployable configuration
+
+![deployable](images/deployable.png)
+
 ## References
 
